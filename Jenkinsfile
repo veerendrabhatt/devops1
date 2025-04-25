@@ -9,5 +9,5 @@ stages{
      bat 'mvn clean install'
     }
    }
-  
+}
 }
